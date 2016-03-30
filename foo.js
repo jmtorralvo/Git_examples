@@ -4,17 +4,20 @@ function foo(){
 
 
 function baz() {
-	console.log('baz')
+	console.log('baz');
 }
 
 function alberto() {
-	console.log('alberto funcion')
+	console.log('alberto funcion');
+	console.log('comemos o q?');
 }
 
 function stash2(){
 	//sfdds
 }
-baz();function alex(){
+baz();
+
+function alex(){
 	console.log('alejandro');
 }
 
