@@ -3,10 +3,6 @@ function Fumar() {
 }
 
 
-
-
-
-
 function baz() {
 	console.log('baz');
 }
@@ -40,3 +36,7 @@ function comer() {
 
 
 baz();
+
+function examenDeFrancisco(){
+	
+}
