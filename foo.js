@@ -1,7 +1,7 @@
 
 
 function fumarEnPipa(){
-	console.log('¿Puedo yo también fumar en pipa?');
+
 }
 
 
