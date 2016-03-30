@@ -1,6 +1,7 @@
-function foo() {
+function foo(){
 	console.log('foo');
 }
+
 
 function baz() {
 	console.log('baz')
@@ -11,3 +12,8 @@ function alberto() {
 }
 
 baz();
+function alex(){
+	console.log('alejandro');
+}
+
+foo();
