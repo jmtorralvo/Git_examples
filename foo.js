@@ -1,4 +1,9 @@
-function Fumar() {
+class Fumar {
+	console.log('foo');
+}
+
+
+class Fumar_a_saco extends Fumar {
 	console.log('foo');
 }
 
