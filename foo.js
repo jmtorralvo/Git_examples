@@ -2,4 +2,8 @@ function foo(){
 	console.log('foo');
 }
 
-foo();
+function baz(){
+	console.log('baz')
+}
+
+baz();
