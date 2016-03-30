@@ -14,8 +14,7 @@ function alberto() {
 }
 
 function stash2(){
-
-	//sfdds
+	//lo que sea
 }
 
 function stash3Alex(){
