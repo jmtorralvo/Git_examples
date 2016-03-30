@@ -8,7 +8,7 @@ function baz() {
 }
 
 function alberto() {
-	console.log('alberto funcion');
+	
 	console.log('comemos o q?');
 }
 
