@@ -11,8 +11,10 @@ function alberto() {
 	console.log('alberto funcion')
 }
 
-baz();
-function alex(){
+function stash2(){
+	//sfdds
+}
+baz();function alex(){
 	console.log('alejandro');
 }
 
