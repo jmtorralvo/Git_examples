@@ -8,12 +8,12 @@ function Fumar() {
 
 
 function baz() {
-	console.log('baz')
+	console.log('baz');
 }
 
 function alberto() {
 	
-	console.log('alberto funcion')
+	console.log('alberto funcion');
 }
 
 function stash2(){
@@ -21,9 +21,6 @@ function stash2(){
 	//sfdds
 }
 alex();
-
-
-
 function alex(){
 
 	console.log('alejandro');
