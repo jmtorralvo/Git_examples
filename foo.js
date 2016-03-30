@@ -1,5 +1,9 @@
+class Fumar {
+	console.log('foo');
+}
 
-function Fumar() {
+
+class Fumar_a_saco extends Fumar {
 	console.log('foo');
 }
 
@@ -9,42 +13,10 @@ function baz() {
 }
 
 function alberto() {
-	
+
 	console.log('alberto funcion');
 }
 
-function stash2(){
-	//lo que sea
-}
-
-function stash3Alex(){
-
-}
-
-alex();
-function alex(){
-
-	console.log('alejandro');
-}
-
-foo();
-
-
-function comer() {
-	return new Date();
-}
-
-
-
-function fumarEnPipa(){
-
-}
-
-baz();
-
-function examenDeFrancisco(){
-
-function Fumar() {
-	console.log('este log sustituye la linea del siguiente log');
-
+function hola() {
+	console.log('hola')
 }
