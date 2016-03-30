@@ -1,30 +1,10 @@
-function foo() {
+function Fumar() {
 	console.log('foo');
 }
 
 
-function baz() {
-	console.log('baz')
-}
 
-function alberto() {
-	
-	console.log('alberto funcion')
-}
-
-function stash2(){
-
-	//sfdds
-}
-
-function alex(){
-
-	console.log('alejandro');
-}
-
-foo();
-
-function sacarDate() {
+function comer() {
 	return new Date();
 }
 
